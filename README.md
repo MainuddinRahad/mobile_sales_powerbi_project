@@ -19,5 +19,5 @@ This Power BI dashboard provides an in-depth analysis of mobile sales performanc
 
 ## ERD (Entity Relationship Diagram) Overview
 
-![alt text](normal_asstes/Capture.PNG)
+![alt text](normal_asstes\Capture.PNG)
 
