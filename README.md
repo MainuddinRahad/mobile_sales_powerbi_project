@@ -200,7 +200,8 @@ The top 20% of products contribute ~80% of total revenue, supporting the 80/20 P
 
 ![alt](normal_asstes/Pareto_page.PNG)
 
-[▶ Watch the video](https://github.com/MainuddinRahad/mobile_sales_powerbi_project/raw/main/video%20asstes/bandicam%202025-03-16%2013-02-01-603%20(online-video-cutter.com)%20(1).mp4)
+[![Watch the video](normal_asstes/Pareto_page.PNG)](https://github.com/MainuddinRahad/mobile_sales_powerbi_project/raw/main/video%20asstes/bandicam%202025-03-16%2013-02-01-603%20(online-video-cutter.com)%20(1).mp4)
+
 
 
 
