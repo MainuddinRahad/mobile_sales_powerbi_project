@@ -200,6 +200,9 @@ The top 20% of products contribute ~80% of total revenue, supporting the 80/20 P
 
 ![alt](normal_asstes/Pareto_page.PNG)
 
+<video src="video asstes\bandicam 2025-03-16 13-02-01-603 (online-video-cutter.com).mp4" controls width="600"></video>
+
+
 ## 📢 Conclusion
 
 This Power BI dashboard provides valuable insights into mobile sales trends, customer preferences, and revenue growth. With the addition of Pareto Analysis, businesses can identify high-impact models, optimize inventory planning, improve marketing strategies, and enhance payment method choices based on customer behavior.
