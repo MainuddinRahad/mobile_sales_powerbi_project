@@ -200,7 +200,7 @@ The top 20% of products contribute ~80% of total revenue, supporting the 80/20 P
 
 ![alt](normal_asstes/Pareto_page.PNG)
 
-<video src="video asstes\bandicam 2025-03-16 13-02-01-603 (online-video-cutter.com) (1).mp4" controls width="600"></video>
+<video src="video asstes/bandicam 2025-03-16 13-02-01-603 (online-video-cutter.com) (1).mp4" controls width="600"></video>
 
 
 ## 📢 Conclusion
